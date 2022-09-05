@@ -3,11 +3,11 @@
   <title>庐州履雪`cheng</title>
   
   <subtitle>今日天气晴</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/xuecheng-1/xuecheng-1.github.io.git/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/xuecheng-1/xuecheng-1.github.io.git/"/>
   <updated>2022-09-05T07:25:04.871Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/xuecheng-1/xuecheng-1.github.io.git/</id>
   
   <author>
     <name>CHENG成</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/post/undefined.html"/>
-    <id>http://example.com/post/undefined.html</id>
+    <link href="https://github.com/xuecheng-1/xuecheng-1.github.io.git/post/4a17b156.html"/>
+    <id>https://github.com/xuecheng-1/xuecheng-1.github.io.git/post/4a17b156.html</id>
     <published>2022-09-05T07:25:04.871Z</published>
     <updated>2022-09-05T07:25:04.871Z</updated>
     

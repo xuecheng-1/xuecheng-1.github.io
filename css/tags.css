@@ -1,0 +1,26 @@
+/* tags样式 */
+#aside-content .card-tag-cloud a {
+    border: 1px solid;
+    line-height: 1.5;
+    border-radius: 6px;
+    margin: 3px;
+    padding: 0 5px;
+  }
+  #aside-content .card-tag-cloud a:hover {
+    background: var(--anzhiyu-theme);
+    color: var(--anzhiyu-white) !important;
+    box-shadow: var(--anzhiyu-shadow-theme);
+  }
+  @media screen and (min-width: 1300px) {
+    #aside-content .card-tag-cloud a:hover {
+      transform: scale(1.03);
+    }
+    #aside-content .card-tag-cloud a:active {
+      transform: scale(0.97);
+    }
+  }
+  #aside-content .card-tag-cloud a sup {
+    opacity: .4;
+    margin-left: 2px;
+  }
+  
